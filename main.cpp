@@ -42,7 +42,7 @@ public:
     }
 };
 
-// ---------------- MENU CLASS ----------------
+// MENU CLASS
 class Menu {
 public:
     vector<string> items = {"Pizza", "Burger", "Pasta", "Sandwich", "Momos", "Chilly Potato", "Garlic Bread", "Cold Drink"};
@@ -56,7 +56,7 @@ public:
     }
 };
 
-// ---------------- ORDER CLASS ----------------
+// ORDER CLASS
 class Order {
 public:
     vector<string> cart;
@@ -140,7 +140,6 @@ public:
     }
 };
 
-// ---------------- MAIN ----------------
 int main() {
     User user;
     Menu menu;
