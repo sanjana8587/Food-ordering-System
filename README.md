@@ -1,2 +1,2 @@
 # Food-ordering-System
-Console based online food ordering system built in c++ using OOP principles.
+This is a console based online food ordering system built in C++. The project demonstrates object-oriented programming concepts and file handling by simulating a real world food ordering process.
